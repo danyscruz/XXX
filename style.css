@@ -19,7 +19,17 @@ width: 100%;
 border-radius: 4px
 }
 .info h3 {
-  font-size: 16px
+  font-size: 8px;
+}
+.info h3 {
+ font-ize: 16px;
+ margin: 4px 0;
+ color: #002f6c;
+}
+.info p {
+  front-siz: 13px;
+  color: #e0dff;
+}
 
 
 
